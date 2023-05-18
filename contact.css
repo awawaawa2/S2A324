@@ -1,0 +1,9 @@
+submit{
+    width:100em;
+    height:25px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px;
+    border-color:rgb(247, 191, 158);
+    border-style: solid;
+    background-color: red;
+}
